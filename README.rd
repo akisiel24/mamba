@@ -1,0 +1,3 @@
+---------------------------------------MAMBA DENTALITY---------------------------------------------
+
+Mamba is intended to be a lightweight, user-friendly alternative to existing software like DENTRIX, with only features that are necessary for smooth office operation. When completed, Mamba will facilitate connection and communication between computers in different operating rooms, allowing charts and individual patient files to be easily accessed, altered, and archived over a local network. The primary goal of this endeavor is to create an individualized solution informed by an actual dentist's needs.
